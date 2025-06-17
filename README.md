@@ -27,10 +27,17 @@
   Me motiva aprender de forma constante, estar al día con las tecnologías emergentes y participar en proyectos donde pueda aportar valor, aprender en equipo y seguir evolucionando como desarrollador.
 </p>
 
-##My Skills Include
+<!-- Título SKILLS estilo videojuego -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=39FF14&center=true&vCenter=true&width=400&lines=+SKILLS" alt="Skills retro sin animación" />
+</h2>
 
-<h4> Lenguajes y herramientas </h4>
-<span> 
+
+<h4 align="center" style="color: #39FF14; font-family: 'Share Tech Mono', monospace;">
+  Lenguajes y herramientas
+</h4>
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -42,9 +49,10 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-</span>
+</p>
+
 
 
 
