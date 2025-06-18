@@ -16,7 +16,7 @@
 
 <!-- Texto descriptivo en fuente consola -->
 <p align="center" style="font-family: 'Share Tech Mono', monospace; color: #39FF14; max-width: 800px; margin: auto;">
-  Desarrollador con experiencia en proyectos aplicando tecnologías como Python, Java, Node.js, React, HTML, CSS, MySQL y PostgreSQL. He desarrollado interfaces web funcionales y trabajado en la creación de APIs y servicios backend, aplicando buenas prácticas de diseño, estructuras limpias y metodologías ágiles como Scrum.
+ Tecnólogo en Desarrollo de Software con experiencia en proyectos aplicando tecnologías como Python, Java, Node.js, React, HTML, CSS, MySQL y PostgreSQL. He desarrollado interfaces web funcionales y trabajado en la creación de APIs y servicios backend, aplicando buenas prácticas de diseño, estructuras limpias y metodologías ágiles como Scrum.
 </p>
 
 <p align="center" style="font-family: 'Share Tech Mono', monospace; color: #39FF14; max-width: 800px; margin: auto;">
