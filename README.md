@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="./banner.png" alt="Miguel Becerra — Desarrollador de Software" width="100%"/>
+  <img src="./banner-migbdev-2026.png" alt="Miguel Becerra — Desarrollador de Software" width="100%"/>
 </p>
 
 <br>
