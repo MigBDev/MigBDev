@@ -1,39 +1,59 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=600&lines=+EXPLORE+MY+WORK" alt="Explore my work"/>
-</h2>
+[BANNER]
 
-<p align="center">
-  ¿Quieres conocer más sobre mis proyectos, experiencia y las soluciones que he desarrollado?
-</p>
+> Welcome to my GitHub profile...
+> Software Developer
+> Full Stack | AI | Backend
 
-<p align="center">
-  <a href="https://migbdev.vercel.app/">
-    <img src="https://img.shields.io/badge/VISITA_MI_PORTAFOLIO-E50914?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+────────────────────────
 
-<p align="center">
-  <sub>Proyectos · Experiencia · Tecnologías · Certificaciones · Contacto</sub>
-</p>
+SOBRE MÍ
 
-<br>
+Descripción breve de quién eres
+y qué haces.
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=500&lines=+CONECTEMOS" alt="Conectemos"/>
-</h2>
+────────────────────────
 
-<p align="center">
-  ¿Tienes un proyecto, una idea o simplemente quieres conectar?
-</p>
+TECH STACK
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-becerra-1a9b65278/">
-    <img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:miguelbecerradev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://migbdev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-E50914?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+Lenguajes
+[badges]
+
+Frontend
+[badges]
+
+Backend
+[badges]
+
+Bases de Datos
+[badges]
+
+IA & Automatización
+[badges]
+
+DevOps, Cloud & Herramientas
+[badges]
+
+Metodologías
+[badges]
+
+────────────────────────
+
+EXPLORE MY WORK
+
+"¿Quieres conocer más sobre mis proyectos...?"
+
+[ VISITA MI PORTAFOLIO ]
+
+────────────────────────
+
+CONECTEMOS
+
+[ LinkedIn ] [ Email ] [ Portfolio ]
+
+────────────────────────
+
+[GitHub Stats]
+
+[Snake Animation]
+
+「 Transformando ideas en soluciones digitales 」
