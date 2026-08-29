@@ -5,14 +5,14 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="./banner.png" alt="Miguel Becerra — Software Developer" width="100%"/>
+  <img src="./banner.png" alt="Miguel Becerra — Desarrollador de Software" width="100%"/>
 </p>
 
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=E50914&center=true&vCenter=true&width=650&lines=%3E+Welcome+to+my+GitHub...;%3E+Software+Developer;%3E+Full+Stack+%7C+AI+%7C+Automation" alt="Typing intro"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=E50914&center=true&vCenter=true&width=650&lines=%3E+Bienvenido+a+mi+GitHub...;%3E+Desarrollador+de+Software;%3E+Full+Stack+%7C+IA+%7C+Automatizaci%C3%B3n" alt="Presentación"/>
 
 </div>
 
@@ -24,15 +24,15 @@
 
 <br>
 
-<!-- ABOUT -->
+<!-- SOBRE MÍ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=500&lines=+ABOUT+ME" alt="About Me"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=500&lines=+SOBRE+M%C3%8D" alt="Sobre mí"/>
 </h2>
 
 <p align="center">
   <samp>
-    Software Developer focused on building modern digital solutions.
+    Desarrollador de Software enfocado en crear soluciones digitales modernas.
   </samp>
 </p>
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   Trabajo principalmente con <b>JavaScript, TypeScript, Python, Java, React y Node.js</b>,
-  construyendo aplicaciones web, APIs y soluciones integradas con inteligencia artificial.
+  desarrollando aplicaciones web, APIs y soluciones integradas con inteligencia artificial.
 </p>
 
 <p align="center">
@@ -54,15 +54,15 @@
 
 <br>
 
-<!-- TECH STACK -->
+<!-- TECNOLOGÍAS -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=520&lines=+TECH+STACK" alt="Tech Stack"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=520&lines=+TECNOLOG%C3%8DAS" alt="Tecnologías"/>
 </h2>
 
 <br>
 
-<h3 align="center">◈ Languages</h3>
+<h3 align="center">◈ Lenguajes</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
@@ -92,7 +92,7 @@
   <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
 </p>
 
-<h3 align="center">◈ Databases</h3>
+<h3 align="center">◈ Bases de Datos</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/DynamoDB-111111?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6"/>
 </p>
 
-<h3 align="center">◈ AI & Automation</h3>
+<h3 align="center">◈ Inteligencia Artificial & Automatización</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
@@ -108,7 +108,7 @@
   <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
 </p>
 
-<h3 align="center">◈ Tools & Cloud</h3>
+<h3 align="center">◈ DevOps, Cloud & Herramientas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
@@ -123,64 +123,66 @@
 
 <br>
 
-<!-- WHAT I DO -->
+<!-- EN QUÉ TRABAJO -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=520&lines=+WHAT+I+DO" alt="What I Do"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=600&lines=+EN+QU%C3%89+TRABAJO" alt="En qué trabajo"/>
 </h2>
+
+<br>
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <h3>◉ Full Stack</h3>
-      <p>Web applications, REST APIs, authentication and database integration.</p>
+      <p>Aplicaciones web, APIs REST, autenticación e integración con bases de datos.</p>
     </td>
     <td align="center" width="33%">
-      <h3>◉ Artificial Intelligence</h3>
-      <p>AI-powered applications, intelligent assistants and computer vision.</p>
+      <h3>◉ Inteligencia Artificial</h3>
+      <p>Aplicaciones con IA, asistentes inteligentes y soluciones de visión por computador.</p>
     </td>
     <td align="center" width="33%">
-      <h3>◉ Automation</h3>
-      <p>Workflow automation and integrations focused on improving processes.</p>
+      <h3>◉ Automatización</h3>
+      <p>Automatización de procesos e integraciones enfocadas en mejorar flujos de trabajo.</p>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- PORTFOLIO -->
+<!-- MI TRABAJO -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=650&lines=+EXPLORE+MY+WORK" alt="Explore My Work"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=650&lines=+MI+TRABAJO" alt="Mi trabajo"/>
 </h2>
 
 <p align="center">
   <samp>
-    Want to see what I build?
+    ¿Quieres conocer lo que he construido?
   </samp>
 </p>
 
 <p align="center">
-  Explore my projects, experience, technologies and more on my personal portfolio.
+  Explora mis proyectos, experiencia, tecnologías y más en mi portafolio personal.
 </p>
 
 <p align="center">
   <a href="https://migbdev.vercel.app/">
-    <img src="https://img.shields.io/badge/◈%20VISIT%20MY%20PORTFOLIO-E50914?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/◈%20VISITAR%20MI%20PORTAFOLIO-E50914?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 <br>
 
-<!-- CONNECT -->
+<!-- CONTACTO -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=500&lines=+CONNECT" alt="Connect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000000&color=E50914&center=true&vCenter=true&width=500&lines=+CONTACTO" alt="Contacto"/>
 </h2>
 
 <p align="center">
   <a href="https://migbdev.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-E50914?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PORTAFOLIO-E50914?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/miguel-becerra-1a9b65278/">
     <img src="https://img.shields.io/badge/LINKEDIN-E50914?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -192,11 +194,11 @@
 
 <br>
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- ANIMACIÓN DE CONTRIBUCIONES -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones de GitHub"/>
 
 </div>
 
@@ -205,7 +207,7 @@
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1000000&color=E50914&center=true&vCenter=true&width=650&lines=%3E+Transforming+ideas+into+digital+solutions+._." alt="Footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1000000&color=E50914&center=true&vCenter=true&width=650&lines=%3E+Transformando+ideas+en+soluciones+digitales+._." alt="Frase final"/>
 </p>
 
 <p align="center">
